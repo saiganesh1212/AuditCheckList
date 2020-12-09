@@ -1,0 +1,13 @@
+2020-12-09 18:53:45,794 Application started. Press Ctrl+C to shut down.
+2020-12-09 18:53:45,803 Hosting environment: Development
+2020-12-09 18:53:45,807 Content root path: D:\AuditCheckList
+2020-12-09 18:54:01,437 Http get request initiated with Internal
+2020-12-09 18:56:57,140 Application started. Press Ctrl+C to shut down.
+2020-12-09 18:56:57,150 Hosting environment: Development
+2020-12-09 18:56:57,152 Content root path: D:\AuditCheckList
+2020-12-09 18:57:54,536 Application started. Press Ctrl+C to shut down.
+2020-12-09 18:57:54,545 Hosting environment: Development
+2020-12-09 18:57:54,547 Content root path: D:\AuditCheckList
+2020-12-09 18:58:07,864 Http get request initiated with SOX
+2020-12-09 18:58:27,684 Http get request initiated with Internal
+2020-12-09 18:58:43,543 Http get request initiated with "Internal"
