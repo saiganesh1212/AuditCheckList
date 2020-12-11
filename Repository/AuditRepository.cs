@@ -1,5 +1,4 @@
-﻿using AuditCheckList.Models;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +8,7 @@ namespace AuditCheckList.Repository
 {
     public class AuditRepository : IAuditRepository
     {
-        static List<string> internalList = new List<string>()
+        private static List<string> internalList = new List<string>()
         {
             "Have all Change requests followed SDLC before PROD move?",
             "Have all Change requests been approved by the application owner?",
@@ -17,7 +16,7 @@ namespace AuditCheckList.Repository
             "Is the SIT and UAT sign-off available?",
             "Is data deletion from the system done with application owner approval?"
         };
-        static List<string> soxList = new List<string>()
+        private static List<string> soxList = new List<string>()
         {
             "Have all Change requests followed SDLC before PROD move? ",
             "Have all Change requests been approved by the application owner?",
@@ -28,13 +27,17 @@ namespace AuditCheckList.Repository
 
         public List<string> GetByType(string auditType)
         {
-            if (auditType == "Internal")
+            if (auditType.Equals("Internal"))
             {
                 return internalList;
             }
-            else 
+            else if(auditType.Equals("SOX"))
             {
                 return soxList;
+            }
+            else 
+            {
+                return null;
             }
         }
     }

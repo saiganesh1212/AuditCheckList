@@ -19,14 +19,17 @@ namespace AuditCheckList.Controllers
         {
             _provider = provider;
         }
-        [HttpGet]
+        [HttpGet("{AuditType}")]
         public IActionResult Get(string AuditType)
         {
             try
             {
                 _log4net.Info("Http get request initiated with " + AuditType);
                 var questionlist = _provider.GetList(AuditType);
+                if (questionlist != null)
                     return Ok(questionlist);
+                else
+                    return NotFound();
             }
             catch(Exception e)
             {

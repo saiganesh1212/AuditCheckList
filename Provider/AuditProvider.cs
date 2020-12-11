@@ -15,7 +15,7 @@ namespace AuditCheckList.Provider
         }
         public List<string> GetList(string AuditType)
         {
-            return _service.GetByType(AuditType);
+                return _service.GetByType(AuditType);
         }
 
     }

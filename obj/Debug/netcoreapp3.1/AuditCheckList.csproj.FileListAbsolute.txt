@@ -39,3 +39,4 @@ D:\AuditCheckList\obj\Debug\netcoreapp3.1\AuditCheckList.dll
 D:\AuditCheckList\obj\Debug\netcoreapp3.1\AuditCheckList.pdb
 D:\AuditCheckList\obj\Debug\netcoreapp3.1\AuditCheckList.genruntimeconfig.cache
 D:\AuditCheckList\obj\Debug\netcoreapp3.1\AuditCheckList.csprojAssemblyReference.cache
+D:\AuditCheckList\bin\Debug\netcoreapp3.1\AuditCheckList.yaml

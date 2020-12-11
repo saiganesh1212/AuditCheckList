@@ -11,3 +11,58 @@
 2020-12-09 18:58:07,864 Http get request initiated with SOX
 2020-12-09 18:58:27,684 Http get request initiated with Internal
 2020-12-09 18:58:43,543 Http get request initiated with "Internal"
+2020-12-09 19:25:03,040 Application started. Press Ctrl+C to shut down.
+2020-12-09 19:25:03,052 Hosting environment: Development
+2020-12-09 19:25:03,058 Content root path: D:\AuditCheckList
+2020-12-09 19:25:21,469 Http get request initiated with Internal
+2020-12-09 19:25:27,146 Http get request initiated with SOX
+2020-12-10 11:55:31,461 Application started. Press Ctrl+C to shut down.
+2020-12-10 11:55:31,501 Hosting environment: Development
+2020-12-10 11:55:31,517 Content root path: D:\AuditCheckList
+2020-12-10 11:55:52,078 Application started. Press Ctrl+C to shut down.
+2020-12-10 11:55:52,119 Hosting environment: Development
+2020-12-10 11:55:52,126 Content root path: D:\AuditCheckList
+2020-12-10 11:56:11,834 Http get request initiated with Internal
+2020-12-10 11:56:22,795 Http get request initiated with internal
+2020-12-10 16:54:26,745 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:54:26,795 Hosting environment: Development
+2020-12-10 16:54:26,810 Content root path: D:\AuditCheckList
+2020-12-10 16:54:40,303 Http get request initiated with sox
+2020-12-10 16:54:49,573 Http get request initiated with sox
+2020-12-10 16:55:01,755 Http get request initiated with sox
+2020-12-10 16:58:25,906 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:58:25,953 Hosting environment: Development
+2020-12-10 16:58:25,964 Content root path: D:\AuditCheckList
+2020-12-10 16:58:47,116 Http get request initiated with Internal
+2020-12-10 16:58:54,949 Http get request initiated with sox
+2020-12-10 17:19:12,643 Application started. Press Ctrl+C to shut down.
+2020-12-10 17:19:12,706 Hosting environment: Development
+2020-12-10 17:19:12,722 Content root path: D:\AuditCheckList
+2020-12-10 17:19:31,350 Http get request initiated with null
+2020-12-10 17:19:52,351 Http get request initiated with Internal
+2020-12-10 17:20:20,569 Http get request initiated with sox
+2020-12-10 17:20:30,670 Http get request initiated with Internal
+2020-12-10 17:20:41,019 Http get request initiated with sox
+2020-12-10 17:20:48,956 Http get request initiated with SOX
+2020-12-10 17:20:55,138 Http get request initiated with sox
+2020-12-10 17:21:00,912 Http get request initiated with sox
+2020-12-10 17:21:13,474 Http get request initiated with internal
+2020-12-10 17:21:26,742 Http get request initiated with internal
+2020-12-10 17:21:31,903 Http get request initiated with internal
+2020-12-10 17:22:04,706 Http get request initiated with AuditType=sox
+2020-12-10 17:22:11,781 Http get request initiated with AuditType=sox
+2020-12-10 17:22:27,884 Http get request initiated with AuditType=sox
+2020-12-10 18:07:58,727 Application started. Press Ctrl+C to shut down.
+2020-12-10 18:07:58,803 Hosting environment: Development
+2020-12-10 18:07:58,828 Content root path: D:\AuditCheckList
+2020-12-10 18:08:03,024 Http get request initiated with internal
+2020-12-10 18:08:27,435 Http get request initiated with internal
+2020-12-10 18:08:51,177 Http get request initiated with nternal
+2020-12-10 18:10:52,901 Application started. Press Ctrl+C to shut down.
+2020-12-10 18:10:52,957 Hosting environment: Development
+2020-12-10 18:10:52,977 Content root path: D:\AuditCheckList
+2020-12-10 18:11:05,159 Http get request initiated with internal
+2020-12-10 18:11:50,685 Application started. Press Ctrl+C to shut down.
+2020-12-10 18:11:50,739 Hosting environment: Development
+2020-12-10 18:11:50,748 Content root path: D:\AuditCheckList
+2020-12-10 18:12:02,246 Http get request initiated with null
